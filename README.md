@@ -1,7 +1,7 @@
 # AI-pro Diploma from Zero to Hero
-> The Lecturer of the Videos, collected Materials and the Design | by --->  __Eng/ Mohammed Agoor__  <br />
+> The Lecturer of the Videos, collected Materials and the Design | by --->  <h2> Eng/ Mohammed Agoor <h2> <br />
 
-### Mohammed_Agoor Contacts:
+#### Mohammed_Agoor Contacts:
 #### [Facebook](https://www.facebook.com/agoormachine/) |  [GitHub](https://www.facebook.com/AGOOR97/) |  [LinkedIn](https://www.facebook.com/mlagoor/) |  [E-mail](mohammedagoor1997@gmail.com)  <br />
  
 
