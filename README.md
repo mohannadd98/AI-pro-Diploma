@@ -3,7 +3,7 @@ The Lecturer of the Videos, collected Materials and the Design | by --->  __Eng/
 #### Mohammed_Agoor Contacts:
 #### [Facebook](https://www.facebook.com/agoormachine/) |  [GitHub](https://www.facebook.com/AGOOR97/) |  [LinkedIn](https://www.facebook.com/mlagoor/) |  [E-mail](mohammedagoor1997@gmail.com)  <br />
 
-ملاحظــات :
+ملاحظــات : <br />
 هذا العمل 
 ## Content:
 __Phase 1 | Data Analysis__
