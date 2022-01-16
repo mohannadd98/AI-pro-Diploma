@@ -1,5 +1,7 @@
 # AI-pro Diploma from Zero to Hero
-> The Lecturer of the Videos, collected Materials and the Design | by --->  <h2> Eng/ Mohammed Agoor <h2> <br />
+The Lecturer of the Videos, collected Materials and the Design | by --->  __Eng/ Mohammed Agoor__ <br />
+#### Profile:
+Mohammed Agoor is an AI Engineer who is passionate about Data Science, Machine Learning, Deep Learning and Applications of AI like CV and NLP, seeking a challenging opportunity in a reputable company where my diligence, skills, and experience can be implemented, utilized and professionally developed, and take the company to advanced Levels through my Position.
 
 #### Mohammed_Agoor Contacts:
 #### [Facebook](https://www.facebook.com/agoormachine/) |  [GitHub](https://www.facebook.com/AGOOR97/) |  [LinkedIn](https://www.facebook.com/mlagoor/) |  [E-mail](mohammedagoor1997@gmail.com)  <br />
