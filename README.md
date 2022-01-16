@@ -11,4 +11,4 @@ The Lecturer of the Videos, collected Materials and the Design | by --->  __Eng/
 __Phase 1 | Data Analysis__
 - __Lecture 1__: **Introduction to Artificial Intelligence**
   - [Video](https://www.youtube.com/watch?v=oWpiRKboJMA&list=PLPL82Je6Igwgpe-m6hwBQOl878BTkWWSN)
-  - [Slides](https://docs.google.com/presentation/d/1ubWWmCZGZKdkh0_-7xUL2giMTt4X5N9p/edit?usp=sharing&ouid=105945864425439571814&rtpof=true&sd=true)
+  - [Slides](https://drive.google.com/file/d/1S7EN5A2QgyH59ScnZAZM_7sE8h-1QJZM/view?usp=sharing)
