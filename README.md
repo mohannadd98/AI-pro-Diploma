@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# AI-pro Diploma from Zero to Hero
 
 You can use the [editor on GitHub](https://github.com/AGOOR97/AI-pro-Diploma/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
