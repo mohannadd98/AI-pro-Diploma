@@ -4,7 +4,10 @@ The Lecturer of the Videos, collected Materials and the Design | by --->  __Eng/
 #### [Facebook](https://www.facebook.com/agoormachine/) |  [GitHub](https://www.facebook.com/AGOOR97/) |  [LinkedIn](https://www.facebook.com/mlagoor/) |  [E-mail](mohammedagoor1997@gmail.com)  <br />
 
 ملاحظــات : <br />
-هذا العمل 
+هذا العمل هو عمل مجاني لعامة المسلمين , أسأل الله عز وجل أن يجعل هذا العمل خالصاً لوجه الكـريم وأن يغفر لي ولوالدي وأن يهب ثواب هذا العمل لي يوم لا ينفع مالٌ ولا بنون وفي قبري بعدما بليَ عظمي ورُمّ , وأن يُنفِذ وعده لعباده في الدنيا والآخرة قوله تعالى (نُصيبُ برحمتنا من نشاءُ ولا نُضيعُ أجر المُحسنين, ولأجر الآخرة خير للذين ءامنوا وكانوا يتقــون) 
+<br />
+وصلي اللهم وسلم وباركـ على النبي محمد , والحمد لله رب العالمين <br />
+
 ## Content:
 __Phase 1 | Data Analysis__
 - __Lecture 1__: **Introduction to Artificial Intelligence**
