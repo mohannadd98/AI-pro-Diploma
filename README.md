@@ -16,4 +16,6 @@
  
 - __Lecture 2__: **Linear Algebra for Machine Learning**
   - [Video - Part 1](https://www.youtube.com/watch?v=6d05ZOFQu-M&list=PLPL82Je6Igwgpe-m6hwBQOl878BTkWWSN&index=2)
-  - [Slides](  )
+  - [Video - Part 2](https://www.youtube.com/watch?v=uqzd6j9tWdw&list=PLPL82Je6Igwgpe-m6hwBQOl878BTkWWSN&index=3)
+  - [Video - Part 3]( )
+  - [Slides](https://drive.google.com/file/d/175FpBefHNkHRzPZO4Q6BtxbzYmey1KBc/view?usp=sharing)
